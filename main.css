@@ -1,0 +1,10 @@
+body {
+    background: url(monos.jpg);
+}
+.title {
+    color:#d87808;
+    font-weight: bold;
+}
+.caja {
+    background: rgba(255,250,240,0.8);
+}
